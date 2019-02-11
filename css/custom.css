@@ -1,0 +1,15 @@
+h1 .subtitle {
+  font-size:0.8em;
+}
+
+.center {
+  text-align:center;
+}
+
+.footer {
+  font-size:0.8em;
+}
+
+ul.articles li {
+  list-style-type:none;
+}

@@ -13,3 +13,13 @@ h1 .subtitle {
 ul.articles li {
   list-style-type:none;
 }
+
+h1 a {
+    font-size:inherit;
+    line-height:inherit;
+    color:inherit;
+}
+
+h1 a::after {
+    content:"";
+}
